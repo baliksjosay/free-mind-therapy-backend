@@ -1,0 +1,17 @@
+certifi==2019.6.16
+chardet==3.0.4
+colorama==0.4.3
+Django==2.2
+django-cors-headers==3.0.2
+django-filter==2.2.0
+djangorestframework==3.9.4
+djangorestframework-jwt==1.11.0
+httpie==2.0.0
+idna==2.8
+Markdown==3.2.1
+Pygments==2.6.1
+PyJWT==1.7.1
+pytz==2019.1
+requests==2.23.0
+sqlparse==0.3.0
+urllib3==1.24.3
